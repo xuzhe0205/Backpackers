@@ -1,0 +1,6 @@
+UserInterface.Customer.CustomerProfileJPanel
+UserInterface.Customer.CustomerProfileJPanel$1
+UserInterface.Customer.CustomerProfileJPanel$2
+UserInterface.Customer.CustomerProfileJPanel$5
+UserInterface.Customer.CustomerProfileJPanel$3
+UserInterface.Customer.CustomerProfileJPanel$4
