@@ -1,6 +1,6 @@
 MIC_BackPackers_FianlProjects
 =========
-Aurhor: Zhe Xu, Weikai Chen, Zefan Feng
+Aurhor: Zhe Xu
 -------------
 `Problem Statement`   	: Designed and developped an app called Backpackers,  a commercial application that 
 finds schedule and discount rates and benefits  of travel-related purchases for customers, also a communication system for organizations and administrative operations
