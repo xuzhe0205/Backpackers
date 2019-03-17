@@ -4,7 +4,7 @@ Interactive Travel Agency Application and Ecosystem
 Aurhor: Zhe Xu
 -------------
 
-### MIC_BackPackers_FianlProjects
+#### MIC_BackPackers_FianlProjects ####
 
 `Problem Statement`   	: Designed and developped a travel agency app called Backpackers,  a commercial application that 
 finds schedule and discount rates and benefits  of travel-related purchases for customers, also a communication system for organizations and administrative operations
