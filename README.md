@@ -108,7 +108,8 @@ Similarly, but uniquely, I have added additional feature for the Rental Car port
 
 ![Sales Chart](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/chart.png)
 
-
+<br>
+<br>
 
 ### Fork files from my repository, and try out more functionalities and fun with hotel booking and train rides reservation as well!
 
