@@ -59,7 +59,7 @@ Different types of Organizations have their corresponding functionalities using 
 
 `Walk-Through with one of the User Cases`		: Let's say I am planing a trip from Boston to Vancouver for a delightful familiy visit. The first thing I would do is to go on to the '''Backpackers''', sign up an account:
 
-![Main page](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/mp.png)
+![Main page](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/mp.png){:height="50%" width="50%"}
 ![Account](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/acc.png)
 
 Then I would log in and then select the service I want (at this point, maybe book a flight first) from the main customer page:
