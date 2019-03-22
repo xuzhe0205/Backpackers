@@ -58,7 +58,6 @@ Different types of Organizations have their corresponding functionalities using 
 
 
 `Walk-Through with one of the User Cases`		: Let's say I am planing a trip from Boston to Vancouver for a delightful familiy visit. The first thing I would do is to go on to the '''Backpackers''', sign up an account:
-
 ![Main page](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/mp.png)
 ![Account](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/acc.png)
 
@@ -68,7 +67,7 @@ Then I would log in and then select the service I want (at this point, maybe boo
 
 Search for the flight schedule by keywords, or none!
 
-![Search Flight](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/sf.png)
+![Search Flight](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/bf.png)
 
 Humm... AA327 seems going to Vancouver YVR airport, lets check the available seats and try to purchase a ticket!
 
@@ -87,7 +86,6 @@ Ok, now I am wondering, maybe I should rent a car so that I can transport freely
 Again, from the "third party" perspective, the famous "Enterprise" car rental company will now process my rental applications:
 
 ![Enterprise](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/ent.png)
-![work request](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/NormDomEigv.png)
 
 Notice that since I can and did apply for rental using my gained credits, so as the Enterprise company processing my order, the region of '''Discount Application''' will lightened up and they will click the '''Generate New Price''' button for me.
 
@@ -95,24 +93,26 @@ Notice that since I can and did apply for rental using my gained credits, so as 
 
 Now as I, as a customer (xuzhe0205), go check my rental cars orders, I can send the Enterprise company an order cancellation request if I think the car is too expensive (like Tesla :( ). Then I would just wait to see if they approve/decline my cancellation request.
 
-![Rental Cancel](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/cancel.png)
+![Rental Cancel](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/cancel.png)
 
 
 So far we have seen two of the three parties that our app "Backpackers" serves, now let's take a tour from our side, the Backpackers' administrators! After our staff logs in, there are many portals they can go to: Airline, Train, Hotel and Rental Car. Since we only cover airline and rental cars in this user case example, so the administrator would go to Airline, and see if our order is there. Oh it is there! Ok, they he/she would send us an E-Ticket confirmation for our flight order. A few seconds later, I would recieve a new email from '''Backpackers''' with my E-Ticket Conformation.
 (Given the time contraints for this project, so far I just directly put the email login part for the administrator at the same place as the email composing section)
 
 ![Eticket](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/eticket.png)
-![Gmail](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/gmail.png)
+<img src="https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/gmail.png" height="600">
 
 Similarly, but uniquely, I have added additional feature for the Rental Car portal, in which it grants "Backpackers" administrators the opportunities to plot some charts to visualize the sales data based on different rental companies and different vehicles make, so they can do various data analysis, for example, to see what the trend of sales for the last period of time, and which rental company is better emerging. For example, as they click '''Analyze by Rental Car Made''', they can visualize the sales histogram by each vehicle Make. Obviously, Toyota is the most popular, and Mercedes Benz and Tesla are too expensive to be popular.
+
 
 ![Rental History](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/renthist.png)
 
 ![Sales Chart](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/chart.png)
 
+<br>
+<br>
 
-
-Fork files from my repository, and try out more functionalities and fun with hotel booking and train rides reservation as well!
+### Fork files from my repository, and try out more functionalities and fun with hotel booking and train rides reservation as well!
 
 
 
