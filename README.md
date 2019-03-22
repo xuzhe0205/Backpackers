@@ -86,7 +86,6 @@ Ok, now I am wondering, maybe I should rent a car so that I can transport freely
 Again, from the "third party" perspective, the famous "Enterprise" car rental company will now process my rental applications:
 
 ![Enterprise](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/ent.png)
-![work request](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/NormDomEigv.png)
 
 Notice that since I can and did apply for rental using my gained credits, so as the Enterprise company processing my order, the region of '''Discount Application''' will lightened up and they will click the '''Generate New Price''' button for me.
 
@@ -94,7 +93,7 @@ Notice that since I can and did apply for rental using my gained credits, so as 
 
 Now as I, as a customer (xuzhe0205), go check my rental cars orders, I can send the Enterprise company an order cancellation request if I think the car is too expensive (like Tesla :( ). Then I would just wait to see if they approve/decline my cancellation request.
 
-![Rental Cancel](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/cancel.png)
+![Rental Cancel](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/cancel.png)
 
 
 So far we have seen two of the three parties that our app "Backpackers" serves, now let's take a tour from our side, the Backpackers' administrators! After our staff logs in, there are many portals they can go to: Airline, Train, Hotel and Rental Car. Since we only cover airline and rental cars in this user case example, so the administrator would go to Airline, and see if our order is there. Oh it is there! Ok, they he/she would send us an E-Ticket confirmation for our flight order. A few seconds later, I would recieve a new email from '''Backpackers''' with my E-Ticket Conformation.
