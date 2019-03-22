@@ -97,10 +97,11 @@ Now as I, as a customer (xuzhe0205), go check my rental cars orders, I can send 
 ![Rental Cancel](https://raw.githubusercontent.com/xuzhe0205/IOB_markovchain/master/assets/cancel.png)
 
 
-So far we have seen two of the three parties that our app "Backpackers" serves, now let's take a tour from our side, the Backpackers' administrators! After our staff logs in, there are many portals they can go to: Airline, Train, Hotel and Rental Car. Since we only cover airline and rental cars in this user case example, so the administrator would go to Airline, and see if our order is there. Oh it is there! Ok, they he/she would send us an E-Ticket confirmation for our flight order:
-(given the time contraints for this project, so far I just directly put the email login part for the administrator at the same place as the email composing section)
+So far we have seen two of the three parties that our app "Backpackers" serves, now let's take a tour from our side, the Backpackers' administrators! After our staff logs in, there are many portals they can go to: Airline, Train, Hotel and Rental Car. Since we only cover airline and rental cars in this user case example, so the administrator would go to Airline, and see if our order is there. Oh it is there! Ok, they he/she would send us an E-Ticket confirmation for our flight order. A few seconds later, I would recieve a new email from '''Backpackers''' with my E-Ticket Conformation.
+(Given the time contraints for this project, so far I just directly put the email login part for the administrator at the same place as the email composing section)
 
 ![Eticket](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/eticket.png)
+![Gmail](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/gmail.png)
 
 Similarly, but uniquely, I have added additional feature for the Rental Car portal, in which it grants "Backpackers" administrators the opportunities to plot some charts to visualize the sales data based on different rental companies and different vehicles make, so they can do various data analysis, for example, to see what the trend of sales for the last period of time, and which rental company is better emerging. For example, as they click '''Analyze by Rental Car Made''', they can visualize the sales histogram by each vehicle Make. Obviously, Toyota is the most popular, and Mercedes Benz and Tesla are too expensive to be popular.
 
