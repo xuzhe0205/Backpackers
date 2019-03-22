@@ -77,7 +77,7 @@ So now take a tour in out "Backpackers" app from the perspective of "the third p
 
 Ok, now I am wondering, maybe I should rent a car so that I can transport freely when I get to Vancouver. I can do that too! So I would just go back to my cutomer panel, go and try to rent a car! With a similar precedure as before, I can see the list of vehicle I can rent. Which one should I pick? Maybe a Jeep from Enterprise, whose cars inventory are available from the "third party" enterprise side too. (For the sake of arguement and later demonstrations, I just go ahead and rent bunch of vehicles, you can see from my customer orders panel:)
 
-![enterprise cars](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/ec.png)
+![enterprise cars](https://raw.githubusercontent.com/xuzhe0205/Backpackers/dev/assets/ec.png)
 
 ![Rental Car](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/rc.png)
 
