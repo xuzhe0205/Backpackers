@@ -67,7 +67,7 @@ Then I would log in and then select the service I want (at this point, maybe boo
 
 Search for the flight schedule by keywords, or none!
 
-![Search Flight](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/sf.png)
+![Search Flight](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/bf.png)
 
 Humm... AA327 seems going to Vancouver YVR airport, lets check the available seats and try to purchase a ticket!
 
@@ -101,9 +101,10 @@ So far we have seen two of the three parties that our app "Backpackers" serves, 
 (Given the time contraints for this project, so far I just directly put the email login part for the administrator at the same place as the email composing section)
 
 ![Eticket](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/eticket.png)
-![Gmail](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/gmail.png)
+<img src="https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/gmail.png" height="300">
 
 Similarly, but uniquely, I have added additional feature for the Rental Car portal, in which it grants "Backpackers" administrators the opportunities to plot some charts to visualize the sales data based on different rental companies and different vehicles make, so they can do various data analysis, for example, to see what the trend of sales for the last period of time, and which rental company is better emerging. For example, as they click '''Analyze by Rental Car Made''', they can visualize the sales histogram by each vehicle Make. Obviously, Toyota is the most popular, and Mercedes Benz and Tesla are too expensive to be popular.
+
 
 ![Rental History](https://raw.githubusercontent.com/xuzhe0205/Backpackers/master/assets/renthist.png)
 
